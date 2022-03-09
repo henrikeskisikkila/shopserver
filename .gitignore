@@ -1,0 +1,15 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+
+# Backup files # 
+*.bak
+
+# pyenv 
+.python-version
+
+# MacOS
+.DS_Store
