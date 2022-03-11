@@ -8,8 +8,5 @@ media
 # Backup files # 
 *.bak
 
-# pyenv 
-.python-version
-
 # MacOS
 .DS_Store
